@@ -20,5 +20,5 @@ Molecular dynamics for Machine Learning
 ======
 Bayesian inference for large-scale datasets is of great interest for its applications in machine learning. It also offers
 a framework for knowledge transfer between numerical Langevin diffusion methods developed in statistical physics, and those that are used in statistical learning. One the one hand, we used a statistical physics perspective to analyze a Langevin diffusion process, offering some insights on how the diffusion coefficient to accelerate sampling. On the other hand, we investigated how Generative ML models can be leveraged to improve the sampling pf transition paths in Molecular dynamics.
-- [Optimizing the diffusion coefficient of overdamped Langevin dynamics]([https://link.springer.com/chapter/10.1007/978-3-032-04981-0_16](https://arxiv.org/abs/2404.12087))
+- [Optimizing the diffusion coefficient of overdamped Langevin dynamics](https://arxiv.org/abs/2404.12087)
 - [Generative methods for sampling transition paths in molecular dynamics](https://www.esaim-proc.org/articles/proc/abs/2023/02/proc2307312/proc2307312.html)
