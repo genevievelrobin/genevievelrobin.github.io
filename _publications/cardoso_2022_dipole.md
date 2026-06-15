@@ -1,7 +1,7 @@
 ---
 title: "A Patient-Specific Single Equivalent Dipole Model"
 collection: publications
-category: manuscript
+category: conferences
 permalink: /publication/cardoso_2022_dipole
 date: 2022
 venue: '2022 Computing in Cardiology (CinC)'
