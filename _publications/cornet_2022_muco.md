@@ -3,7 +3,7 @@ title: "Profiling the response to lumacaftor‐ivacaftor in children with
 cystic between fibrosis and new insight from a French‐Italian
 real‐life cohort"
 collection: publications
-category: manuscript
+category: manuscripts
 permalink: /publication/cornet_2022_muco
 date: 2022-04-22
 venue: 'Pediatric Pulmonology'
