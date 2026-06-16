@@ -6,6 +6,7 @@ collection: publications
 category: preprints
 permalink: /publication/grouard_2025_MIL
 date: 2025-10-15
+venue: 'bioRxiv'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2025.10.13.682206v1'
 citation: 'Simon Grouard, Christian Esposito, Jean El Khoury, Valérie Ducret, Céline
 Thiriez, Loïc Herpin, Anaïs Chossegros, Caroline Hoffmann, Quentin Bayard, Genevieve
