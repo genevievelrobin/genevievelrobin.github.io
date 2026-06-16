@@ -1,5 +1,6 @@
 ---
-title: "Paper Title Number 3"
+title: "Federated Expectation Maximization with
+heterogeneity mitigation and variance reduction"
 collection: publications
 category: conferences
 permalink: /publication/dieuleveut_2021_fedEM
