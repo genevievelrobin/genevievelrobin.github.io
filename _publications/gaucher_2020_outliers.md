@@ -2,7 +2,7 @@
 title: "Outliers Detection in Networks with Missing Links"
 collection: publications
 category: manuscripts
-permalink: /publication/cornet_2022_muco
+permalink: /publication/gaucher_2020_outliers
 date: 2021-12-01
 venue: 'Computational Statistics & Data Analysis'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0167947321001420'
